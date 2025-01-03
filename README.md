@@ -28,6 +28,7 @@ Additionally, you can set REQUIRED_ROLE_NAME in client.py if you want to check f
 no checks will be made.
 
 Example:
+
 ... Other client.py code
 
 REQUIRED_ROLE_NAME: str = "DJ" # Will check for "DJ" role in the user's guild.
