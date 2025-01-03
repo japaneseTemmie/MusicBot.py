@@ -31,7 +31,7 @@ Example:
 
 ... Other client.py code
 
-REQUIRED_ROLE_NAME: str = "DJ" # Will check for "DJ" role in the user's guild.
+`REQUIRED_ROLE_NAME: str = "DJ"` # Will check for "DJ" role in the user's guild.
 
 Then, to run the bot, type `python3 main.py`.
 The bot should then initialize everything and go online, which is confirmed if you see "Logged in as <yourbotusername>".
