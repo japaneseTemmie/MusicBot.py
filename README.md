@@ -29,6 +29,7 @@ no checks will be made.
 
 Example:
 ... Other client.py code
+
 REQUIRED_ROLE_NAME: str = "DJ" # Will check for "DJ" role in the user's guild.
 
 Then, to run the bot, type `python3 main.py`.
