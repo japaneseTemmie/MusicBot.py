@@ -33,7 +33,7 @@ Example:
 
 `REQUIRED_ROLE_NAME: str = "DJ"` # Will check for "DJ" role in the user who invoked the command's roles.
 
-Then, to run the bot, type `python3 main.py`.
+Then, to run the bot, type `python3 main.py` (If you created a _venv_ make sure to enter its environment and check packages before running this command).
 The bot should then initialize everything and go online, which is confirmed if you see "Logged in as <yourbotusername>".
 The bot is now listening for commands.
 
