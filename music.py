@@ -1168,7 +1168,7 @@ class Mixer(commands.Cog):
 
         previous = self.queue[:]
         self.queue = sorted(self.queue, key=lambda track: track[1]) # Sorts list alphabetically using the second item (title) of the tuple.
-        self.queue_to_loop.copy()
+        self.queue_to_loop = self.queue.copy()
 
         if previous != self.queue:
             embed.add_field(name="New queue", value=self.get_tracks(self.queue), inline=True)
