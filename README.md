@@ -2,7 +2,8 @@
 Feature-rich Discord music bot written in Python.
 
 # Setup
-First, go to discord.com/developers and set up a new application and a bot, then, invite the bot to your server.
+First, go to discord.com/developers and set up a new application and a bot, also, make sure to check all priviliged intents in the Bot section.
+Then, invite the bot to your server.
 While creating a bot, save the bot token as it will be required later on.
 
 Download the source code and extract to a directory of your choice.
