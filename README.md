@@ -26,7 +26,7 @@ After installing required dependencies, you can optionally open client.py in a t
 
 # Configuration and running the bot
 
-Create a file called "bot_token.txt" (case sensitive) and paste in your bot token at line 1 and nothing else.
+Create a file called "bot_token.txt" (case sensitive) in the bot's main directory and paste in your bot token at line 1 and nothing else.
 Additionally, you can set REQUIRED_ROLE_NAME in client.py if you want to check for a specific role that the user must have before executing a command, default value is None, which means that
 no checks will be made.
 
