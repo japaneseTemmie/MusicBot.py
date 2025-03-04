@@ -41,5 +41,5 @@ The bot is now listening for commands.
 NOTE: This Discord music bot is mostly just a fun project and does not work across multiple guilds (servers). The bot is meant to operate in a single guild.
 
 # Usage and features
-Once the bot is online, run >musichelp (Substitute ">" with your custom prefix if defined in client.py) to see all music features and usage help.
+Once the bot is online, send >musichelp (Substitute ">" with your custom prefix if defined in client.py) in a text channel to see all music features and usage help.
 The bot also includes a small moderation class, its help menu can be shown with >modhelp.
