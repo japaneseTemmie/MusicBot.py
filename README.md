@@ -1,3 +1,5 @@
+# This project is no longer (it never was) supported, please check out MusicBot.py-2.0 instead.
+
 # MusicBot.py
 Feature-rich Discord music bot written in Python.
 
